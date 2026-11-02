@@ -1,10 +1,16 @@
-# 💻 Assignment Boilerplate
+# 💻 Handsome the Police Dog
 
-A starting point for assignment and exercise repos. It includes submission instructions, editor and Git configuration, and a pull request template so every assignment works the same way.
+Starter files for the first coding exercise in Web Design 1. You will turn plain text about
+**Handsome**, Cincinnati's first unofficial police dog, into a basic HTML web page and publish it
+with GitHub Pages.
+
+This repo also includes the editor and Git configuration and the pull request template that every
+assignment in this course uses.
 
 > [!NOTE]
 > `.editorconfig`, `.gitattributes`, `.gitignore`, `.noai`, and the `.github` folder are
-> setup files that keep assignments consistent. Leave them alone.
+> setup files that keep assignments consistent. Leave them alone. `handsome.txt`,
+> `handsome.jpg`, and `handsome-today.jpg` are your starter content — keep them in the repo.
 
 ## 📋 Assignment Requirements
 
@@ -28,10 +34,13 @@ GitHub Pages publishes from the root, so `index.html` has to live there or your 
 
 ```
 index.html
-css/style.css
-js/script.js
-images/photo.jpg
+handsome.jpg
+handsome-today.jpg
 ```
+
+For this first exercise, keep everything in the root folder — the images are already there, so
+`<img src="handsome.jpg">` just works. In later assignments you will group assets into subfolders
+like `css/`, `js/`, and `images/`.
 
 ## 🤖 AI Policy
 
