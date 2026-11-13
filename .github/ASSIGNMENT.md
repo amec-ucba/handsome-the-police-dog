@@ -71,7 +71,7 @@ Each video builds on the previous one, so please don't skip ahead.
 > HTML, and follow this repo for getting your files and submitting:
 >
 > - **Getting the starter files (Part 1):** don't download a ZIP. Create your own repo
->   from this template and open it with GitHub Desktop, as described in the
+>   from this template and clone it in WebStorm, as described in the
 >   [Getting Started guide](GETTING_STARTED.md).
 > - **Naming your file:** rename `handsome.txt` to **`index.html`**, whatever name the
 >   video uses. GitHub Pages only serves `index.html` at your site's root URL; any other
