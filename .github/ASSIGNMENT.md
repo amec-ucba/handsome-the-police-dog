@@ -102,6 +102,17 @@ Inside `handsome.txt`, two lines mark where the images belong:
 
 Delete each placeholder line and put an `<img>` element in its place.
 
+## 🧮 Grading
+
+| Criteria | Points |
+| --- | --- |
+| File renamed to `index.html` with a valid HTML document structure (`DOCTYPE`, `html`, `head`, `title`, `body`) | 3 |
+| Correct use of `h1` and `h2` headings | 3 |
+| All body text wrapped in `p` elements | 3 |
+| Both images display correctly with `src` and `alt` | 4 |
+| Published to GitHub Pages and submitted as a pull request URL | 2 |
+| **Total** | **15** |
+
 ## ✅ Before You Submit
 
 Check the following:
