@@ -72,13 +72,13 @@ Each video builds on the previous one, so please don't skip ahead.
 >
 > - **Getting the starter files (Part 1):** don't download a ZIP. Create your own repo
 >   from this template and open it with GitHub Desktop, as described in the
->   [README](README.md#-getting-started).
+>   [Getting Started guide](GETTING_STARTED.md).
 > - **Naming your file:** rename `handsome.txt` to **`index.html`**, whatever name the
 >   video uses. GitHub Pages only serves `index.html` at your site's root URL; any other
 >   name gives you a 404. Rename the file — don't create a second one.
 > - **Submitting (Part 5):** don't zip your folder or upload a file. Publish your page to
 >   GitHub Pages and submit a pull request URL in Canvas, as described in the
->   [README](README.md#-submitting-the-assignment).
+>   [Submitting guide](SUBMITTING.md).
 
 > [!IMPORTANT]
 > Open the entire project **folder** in VS Code, not a single HTML file. VS Code needs to
@@ -150,4 +150,4 @@ If something is not working, check these common issues first:
 
 ---
 
-The AI policy and submission instructions are in the [README](README.md).
+The AI policy and submission instructions are in the [README](../README.md).
